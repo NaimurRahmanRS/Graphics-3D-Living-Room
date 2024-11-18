@@ -1,0 +1,34 @@
+﻿  main.cpp
+E:\Lab_2_provided\main.cpp(236,124): warning C4101: 'InvRotateTranslateMatrix': unreferenced local variable
+E:\Lab_2_provided\main.cpp(236,101): warning C4101: 'RotateTranslateMatrix': unreferenced local variable
+E:\Lab_2_provided\main.cpp(236,36): warning C4101: 'rotateXMatrix': unreferenced local variable
+E:\Lab_2_provided\main.cpp(236,66): warning C4101: 'rotateZMatrix': unreferenced local variable
+E:\Lab_2_provided\main.cpp(236,51): warning C4101: 'rotateYMatrix': unreferenced local variable
+E:\Lab_2_provided\main.cpp(310,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+E:\Lab_2_provided\main.cpp(310,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+E:\Lab_2_provided\main.cpp(446,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+E:\Lab_2_provided\main.cpp(446,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+E:\Lab_2_provided\main.cpp(446,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+E:\Lab_2_provided\main.cpp(788,70): warning C4305: '+=': truncation from 'double' to 'float'
+E:\Lab_2_provided\main.cpp(789,70): warning C4305: '-=': truncation from 'double' to 'float'
+E:\Lab_2_provided\main.cpp(790,70): warning C4305: '+=': truncation from 'double' to 'float'
+E:\Lab_2_provided\main.cpp(791,70): warning C4305: '-=': truncation from 'double' to 'float'
+E:\Lab_2_provided\main.cpp(792,70): warning C4305: '+=': truncation from 'double' to 'float'
+E:\Lab_2_provided\main.cpp(793,70): warning C4305: '-=': truncation from 'double' to 'float'
+E:\Lab_2_provided\main.cpp(794,66): warning C4305: '+=': truncation from 'double' to 'float'
+E:\Lab_2_provided\main.cpp(795,66): warning C4305: '-=': truncation from 'double' to 'float'
+E:\Lab_2_provided\main.cpp(796,66): warning C4305: '+=': truncation from 'double' to 'float'
+E:\Lab_2_provided\main.cpp(797,66): warning C4305: '-=': truncation from 'double' to 'float'
+E:\Lab_2_provided\main.cpp(798,66): warning C4305: '+=': truncation from 'double' to 'float'
+E:\Lab_2_provided\main.cpp(799,66): warning C4305: '-=': truncation from 'double' to 'float'
+E:\Lab_2_provided\main.cpp(816,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+E:\Lab_2_provided\main.cpp(821,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+E:\Lab_2_provided\main.cpp(826,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+E:\Lab_2_provided\main.cpp(831,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+E:\Lab_2_provided\main.cpp(836,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+E:\Lab_2_provided\main.cpp(841,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+E:\Lab_2_provided\main.cpp(846,24): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+E:\Lab_2_provided\main.cpp(851,24): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+E:\Lab_2_provided\main.cpp(856,24): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+E:\Lab_2_provided\main.cpp(861,24): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  Lab_2_provided.vcxproj -> E:\Lab_2_provided\x64\Debug\Lab_2_provided.exe
